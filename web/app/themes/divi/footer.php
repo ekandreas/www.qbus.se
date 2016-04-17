@@ -37,7 +37,7 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 					}
 				?>
 
-						<p id="footer-info"><a href="http://www.aekab.se">AEKAB</a></p>
+						<p id="footer-info"><a href="https://www.qbus.se">Qbus</a></p>
 					</div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
